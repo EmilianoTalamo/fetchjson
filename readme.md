@@ -6,7 +6,7 @@ Basically with this tiny script, you can import a JSON file into your .js easily
 
 ## Usage
 
-```
+```js
 fetchJSON(link, returnAsString [optional])
 	.then(response => {
 		// Do whatever you want with the JSON
